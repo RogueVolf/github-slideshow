@@ -2,6 +2,7 @@
 layout : slide
 text : " Welcome to the new file "
 ---
-Your text 
+Baby steps
 Use left button to go back
+
 
